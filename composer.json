@@ -1,5 +1,5 @@
 {
-    "name": "bookbuild/asset-cdn",
+    "name": "arubacao/asset-cdn",
     "description": "Serve Laravel Assets from a Content Delivery Network (CDN)",
     "keywords": [
         "Laravel",
